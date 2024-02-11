@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto and web development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on x @jaycrypto09
 - 😄 Pronouns: he/him/them
 - ⚡ Fun fact: stay up more than I sleep in
 <!---
