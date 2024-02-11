@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ninoanam
-- 👀 I’m interested in crypto and web development
+- 👀 I’m interested in crypto, sport and web development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on x @jaycrypto09
