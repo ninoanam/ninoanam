@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on x @jaycrypto09
 - 😄 Pronouns: he/him/them
-- ⚡ Fun fact: stay up more than I sleep in
+- ⚡ Fun fact: keep trying on the grind
 <!---
 ninoanam/ninoanam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
