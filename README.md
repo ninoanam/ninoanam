@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on x @jaycrypto09
-- 😄 Pronouns: he/him/them
+- 😄 Pronouns: he
 - ⚡ Fun fact: keep trying on the grind
 <!---
 ninoanam/ninoanam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
