@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninoanam
 - 👀 I’m interested in crypto, sport and web development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java, solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on x @jaycrypto09
 - 😄 Pronouns: he
